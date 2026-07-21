@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Sailesh Iyyappan Jr.
+#  Sailesh Iyyappan Jr.
 
 ## Systems Product Engineer • Technical Founder
 
@@ -14,66 +14,104 @@ Building intelligent products by combining **Embedded Systems**, **IoT**, **Arti
 
 # 👨‍💻 About Me
 
-I am an **Integrated M.Tech Computer Science and Engineering** student at **VIT-AP University** passionate about transforming ideas into real-world engineering products.
+I am an **Integrated M.Tech Computer Science and Engineering** student at **VIT-AP University** passionate about designing intelligent engineering products that bridge embedded hardware, software systems, artificial intelligence, and applied research.
 
-My work focuses on designing complete technology ecosystems by integrating embedded hardware, intelligent software, cloud services, AI-assisted systems, and research-driven product development. I enjoy solving practical problems through multidisciplinary engineering and building systems that can evolve from prototypes into deployable products.
+My work focuses on transforming innovative ideas into real-world solutions through multidisciplinary engineering, system architecture, firmware development, full-stack applications, and product-oriented research. I enjoy building scalable technology ecosystems that evolve from concept and prototype to research, intellectual property, and commercialization.
 
 ---
 
-# 🚀 Current Projects
+# 🚀 Flagship Projects
 
 ## 🩺 MOWAERS (BAND)
 
 **Modular Organ-Wise Analysis, Evaluation, Response and Safety System**
 
-A next-generation wearable healthcare platform integrating:
+A patent-oriented modular wearable healthcare platform designed for continuous health monitoring and emergency response. Unlike conventional wrist-only wearables, MOWAERS introduces a modular sensing architecture capable of monitoring physiological signals from multiple body locations through an integrated hardware and software ecosystem.
 
-- Embedded Systems
-- Biosignal Monitoring
-- IoT Connectivity
-- AI-Assisted Health Intelligence
-- Personalized Health Analytics
-- Emergency Response Framework
-- Modular Wearable Architecture
+### Highlights
+
+- Modular wearable hardware architecture
+- ESP32 & ESP32-C3 embedded platform
+- ECG, PPG, Motion & Environmental sensing
+- Bluetooth Low Energy communication
+- Mobile health monitoring application
+- Personalized Health Baseline (PHB)
+- Sensor Handling Block (SHB)
+- AI-assisted health evaluation
+- Emergency response workflow (CRIB)
+- Patent-oriented product development
 
 ---
 
 ## 💡 TechLance
 
-AI-powered engineering collaboration ecosystem featuring:
+**AI-Powered Engineering Collaboration Ecosystem**
 
-- AI-assisted project development
-- Intelligent engineering workflows
-- Team collaboration
-- Full Stack Web Platform
-- Firebase Integration
-- Modern Frontend Architecture
-- Applied AI Services
+TechLance is a full-stack engineering collaboration platform designed to simplify the complete engineering project lifecycle—from idea validation to execution. It combines intelligent collaboration, AI-powered decision support, project management, hardware sourcing, and trust mechanisms within a unified engineering ecosystem.
 
----
+### Highlights
 
-## 💧 Smart Digital Water Distribution Unit (DWD)
-
-Offline-first smart water distribution system utilizing:
-
-- ESP32
-- RFID Authentication
-- Flow Monitoring
-- Embedded Automation
-- Local Data Synchronization
-- IoT Architecture
+- AI-assisted engineering workflows
+- Project intelligence & risk analysis
+- Team collaboration platform
+- Full Stack architecture
+- React • Next.js • Node.js
+- Firebase & Firestore
+- Gemini API & Vertex AI
+- Blockchain-based trust concepts
+- Scalable SaaS architecture
 
 ---
 
-## 🔊 Portable Bluetooth Audio Device
+## 🔊 FCW Ultra-Low Profile Dynamic Speaker Architecture
 
-Consumer electronics product focused on:
+An independent research project exploring an ultra-thin dynamic speaker architecture using **Flat Copper Winding (FCW)** technology. The research replaces the conventional cylindrical voice coil with a flat winding design, enabling thinner, lightweight, and shape-flexible speakers for future embedded electronics.
 
-- Embedded Audio Systems
-- Hardware Design
-- Bluetooth Communication
-- PCB Integration
-- Product-Oriented Engineering
+### Highlights
+
+- Novel Flat Copper Winding architecture
+- Handmade proof-of-concept prototype
+- Electromagnetic speaker research
+- Ultra-low profile acoustic design
+- Embedded consumer electronics
+- Patent-oriented engineering research
+- Future applications in wearables, smartphones, laptops, IoT, and AR/VR devices
+
+---
+
+## ♻️ Eco-Industrial Park (EIP)
+
+**Government-Centric Circular Recycling Infrastructure**
+
+A large-scale systems engineering research project focused on designing an integrated recycling ecosystem that connects multiple recycling industries into a unified circular resource recovery infrastructure. The project explores industrial symbiosis, intelligent recycling workflows, and automated resource recovery technologies for sustainable development.
+
+### Highlights
+
+- Circular economy engineering
+- Integrated recycling infrastructure
+- Industrial symbiosis
+- Resource recovery optimization
+- Automatic PCB dismantling research
+- Sustainable systems engineering
+- Government-centric infrastructure planning
+- Applied environmental engineering research
+
+---
+
+## ✏️ Highlighter-Shaped Portable Audio Device
+
+A patent-oriented embedded consumer electronics project that transforms the external form of a conventional highlighter into a compact Bluetooth and standalone audio playback device. The project combines embedded hardware integration, miniaturized electronics, and innovative industrial design within a familiar stationery-inspired enclosure.
+
+### Highlights
+
+- Patent-oriented product design
+- Bluetooth audio system
+- Standalone MP3 playback
+- Embedded hardware integration
+- Compact PCB architecture
+- Battery-powered electronics
+- Mechanical product engineering
+- Consumer electronics prototyping
 
 ---
 
@@ -84,10 +122,11 @@ Consumer electronics product focused on:
 - Internet of Things (IoT)
 - Artificial Intelligence
 - Full Stack Development
-- System Architecture
 - Firmware Development
+- System Architecture
 - Healthcare Technology
-- Human-Centered Engineering
+- Consumer Electronics
+- Sustainable Engineering
 - Applied Research
 - Product Innovation
 
@@ -107,10 +146,11 @@ Consumer electronics product focused on:
 ### Embedded & IoT
 
 - ESP32
+- ESP32-C3
 - Arduino
 - PlatformIO
-- Sensors & Electronics
 - Bluetooth Low Energy (BLE)
+- Sensors & Electronics
 - GSM
 - GPS
 
@@ -143,25 +183,23 @@ Consumer electronics product focused on:
 
 # 🎯 Current Focus
 
-Currently focused on:
-
 - Building production-ready engineering systems
-- Developing patent-oriented products
-- Publishing research
-- Strengthening embedded system expertise
-- Creating scalable AI-powered platforms
-- Contributing to innovative healthcare technology
+- Developing patent-oriented technologies
+- Publishing engineering research
+- Advancing embedded system architecture
+- Creating AI-powered engineering platforms
+- Transforming prototypes into scalable products
 
 ---
 
-# 📈 Goals
+# 📈 Long-Term Vision
 
-- Build impactful engineering products
+- Engineer impactful technology products
 - Publish high-quality research
-- File technology patents
-- Develop scalable startup ecosystems
-- Create intelligent embedded platforms
-- Solve real-world engineering challenges
+- Secure intellectual property
+- Build scalable technology ventures
+- Advance embedded and AI-assisted systems
+- Deliver engineering solutions for real-world challenges
 
 ---
 
@@ -169,6 +207,6 @@ Currently focused on:
 
 ## ⭐ Engineering • Research • Innovation • Product Development
 
-*"Designing technology that solves real-world problems through engineering and innovation."*
+*"Engineering intelligent products that bridge research, innovation, and real-world impact."*
 
 </div>
