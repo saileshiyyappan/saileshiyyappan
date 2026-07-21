@@ -6,7 +6,13 @@
 
 Building intelligent products by combining **Embedded Systems**, **IoT**, **Artificial Intelligence**, **Full-Stack Engineering**, and **Applied Research**.
 
-🌐 Portfolio • 💼 LinkedIn • 💻 GitHub • 📚 ORCID • 📺 YouTube
+<p align="center">
+  🌐 <a href="https://saileshiyyappan.vercel.app/">Portfolio</a> •
+  💼 <a href="https://www.linkedin.com/in/saileshiyyappan/">LinkedIn</a> •
+  💻 <a href="https://github.com/saileshiyyappan">GitHub</a> •
+  📚 <a href="https://orcid.org/0009-0003-5424-0405">ORCID</a> •
+  📺 <a href="https://www.youtube.com/@YOUR_YOUTUBE_CHANNEL">YouTube</a>
+</p>
 
 ---
 
@@ -16,7 +22,7 @@ Building intelligent products by combining **Embedded Systems**, **IoT**, **Arti
 
 I am an **Integrated M.Tech Computer Science and Engineering** student at **VIT-AP University** passionate about designing intelligent engineering products that bridge embedded hardware, software systems, artificial intelligence, and applied research.
 
-My work focuses on transforming innovative ideas into real-world solutions through multidisciplinary engineering, system architecture, firmware development, full-stack applications, and product-oriented research. I enjoy building scalable technology ecosystems that evolve from concept and prototype to research, intellectual property, and commercialization.
+My work focuses on transforming innovative ideas into real-world engineering solutions through multidisciplinary engineering, system architecture, firmware development, embedded systems, full-stack applications, and product-oriented research. I enjoy building scalable technology ecosystems that evolve from concept and prototype to research, intellectual property, and commercialization.
 
 ---
 
@@ -24,87 +30,92 @@ My work focuses on transforming innovative ideas into real-world solutions throu
 
 ## 🩺 MOWAERS (BAND)
 
-**Modular Organ-Wise Analysis, Evaluation, Response and Safety System**
+### Modular Organ-Wise Analysis, Evaluation, Response and Safety System
 
-A patent-oriented modular wearable healthcare platform designed for continuous health monitoring and emergency response. Unlike conventional wrist-only wearables, MOWAERS introduces a modular sensing architecture capable of monitoring physiological signals from multiple body locations through an integrated hardware and software ecosystem.
+MOWAERS (BAND) is a patent-oriented modular wearable healthcare platform designed for continuous health monitoring and intelligent emergency response. The system introduces a modular wearable architecture capable of acquiring physiological signals from multiple body locations while integrating embedded hardware, firmware, Bluetooth communication, mobile software, AI-assisted health evaluation, and personalized health intelligence.
 
 ### Highlights
 
-- Modular wearable hardware architecture
-- ESP32 & ESP32-C3 embedded platform
+- Modular wearable architecture
+- ESP32 & ESP32-C3 embedded platforms
 - ECG, PPG, Motion & Environmental sensing
-- Bluetooth Low Energy communication
-- Mobile health monitoring application
+- Bluetooth Low Energy (BLE)
+- Mobile companion application
 - Personalized Health Baseline (PHB)
 - Sensor Handling Block (SHB)
-- AI-assisted health evaluation
-- Emergency response workflow (CRIB)
+- B-FIT Placement Validation
+- Compare & Condition Engines
+- Trend Analysis
+- CRIB Emergency Response Framework
 - Patent-oriented product development
 
 ---
 
 ## 💡 TechLance
 
-**AI-Powered Engineering Collaboration Ecosystem**
+### AI-Powered Engineering Collaboration Ecosystem
 
-TechLance is a full-stack engineering collaboration platform designed to simplify the complete engineering project lifecycle—from idea validation to execution. It combines intelligent collaboration, AI-powered decision support, project management, hardware sourcing, and trust mechanisms within a unified engineering ecosystem.
+TechLance is a full-stack engineering collaboration platform that simplifies the engineering project lifecycle—from idea validation to project execution. The platform integrates intelligent collaboration, AI-assisted decision support, project management, hardware sourcing, trust mechanisms, and cloud technologies into a unified engineering ecosystem.
 
 ### Highlights
 
 - AI-assisted engineering workflows
-- Project intelligence & risk analysis
-- Team collaboration platform
-- Full Stack architecture
-- React • Next.js • Node.js
-- Firebase & Firestore
+- Project intelligence & risk prediction
+- Intelligent collaboration platform
+- Full-Stack SaaS Architecture
+- React & Next.js
+- Node.js & Firebase
+- Firestore Database
 - Gemini API & Vertex AI
 - Blockchain-based trust concepts
-- Scalable SaaS architecture
+- Scalable engineering ecosystem
 
 ---
 
 ## 🔊 FCW Ultra-Low Profile Dynamic Speaker Architecture
 
-An independent research project exploring an ultra-thin dynamic speaker architecture using **Flat Copper Winding (FCW)** technology. The research replaces the conventional cylindrical voice coil with a flat winding design, enabling thinner, lightweight, and shape-flexible speakers for future embedded electronics.
+An independent research project exploring an ultra-thin dynamic speaker architecture using **Flat Copper Winding (FCW)** technology. The project redesigns the conventional voice coil into a flat winding architecture, enabling thinner, lightweight, and shape-flexible speakers for future embedded electronics.
 
 ### Highlights
 
-- Novel Flat Copper Winding architecture
+- Flat Copper Winding (FCW) technology
 - Handmade proof-of-concept prototype
 - Electromagnetic speaker research
-- Ultra-low profile acoustic design
+- Ultra-low profile acoustic architecture
 - Embedded consumer electronics
 - Patent-oriented engineering research
-- Future applications in wearables, smartphones, laptops, IoT, and AR/VR devices
+- Future applications in smartphones, wearables, laptops, IoT, and AR/VR devices
 
 ---
 
 ## ♻️ Eco-Industrial Park (EIP)
 
-**Government-Centric Circular Recycling Infrastructure**
+### Government-Centric Circular Recycling Infrastructure
 
-A large-scale systems engineering research project focused on designing an integrated recycling ecosystem that connects multiple recycling industries into a unified circular resource recovery infrastructure. The project explores industrial symbiosis, intelligent recycling workflows, and automated resource recovery technologies for sustainable development.
+Eco-Industrial Park (EIP) is a large-scale systems engineering research project focused on designing an integrated circular recycling ecosystem that connects multiple recycling industries into one intelligent infrastructure. The project explores industrial symbiosis, automated recycling technologies, resource recovery, and sustainable engineering solutions for future waste management systems.
 
 ### Highlights
 
 - Circular economy engineering
-- Integrated recycling infrastructure
+- Integrated recycling ecosystem
 - Industrial symbiosis
-- Resource recovery optimization
-- Automatic PCB dismantling research
+- Intelligent resource recovery
+- Automatic PCB Dismantling Machine research
 - Sustainable systems engineering
 - Government-centric infrastructure planning
-- Applied environmental engineering research
+- Environmental technology research
 
 ---
 
 ## ✏️ Highlighter-Shaped Portable Audio Device
 
-A patent-oriented embedded consumer electronics project that transforms the external form of a conventional highlighter into a compact Bluetooth and standalone audio playback device. The project combines embedded hardware integration, miniaturized electronics, and innovative industrial design within a familiar stationery-inspired enclosure.
+### Patent-Oriented Embedded Consumer Electronics
+
+A patent-oriented embedded consumer electronics project that transforms the external form of a conventional highlighter into a compact Bluetooth and standalone MP3 audio device. The project combines embedded hardware integration, compact PCB architecture, rechargeable battery systems, and innovative industrial design within a stationery-inspired enclosure.
 
 ### Highlights
 
-- Patent-oriented product design
+- Patent-oriented product engineering
 - Bluetooth audio system
 - Standalone MP3 playback
 - Embedded hardware integration
@@ -121,7 +132,7 @@ A patent-oriented embedded consumer electronics project that transforms the exte
 - Product Engineering
 - Internet of Things (IoT)
 - Artificial Intelligence
-- Full Stack Development
+- Full-Stack Development
 - Firmware Development
 - System Architecture
 - Healthcare Technology
@@ -134,7 +145,7 @@ A patent-oriented embedded consumer electronics project that transforms the exte
 
 # 💻 Technology Stack
 
-### Programming Languages
+## Programming Languages
 
 - C
 - C++
@@ -143,36 +154,37 @@ A patent-oriented embedded consumer electronics project that transforms the exte
 - JavaScript
 - TypeScript
 
-### Embedded & IoT
+## Embedded & IoT
 
 - ESP32
 - ESP32-C3
 - Arduino
 - PlatformIO
 - Bluetooth Low Energy (BLE)
-- Sensors & Electronics
+- Embedded Electronics
 - GSM
 - GPS
+- Sensors & Actuators
 
-### Web Development
+## Web Development
 
 - React
 - Next.js
 - Node.js
-- Express
+- Express.js
 - Firebase
 - Tailwind CSS
 
-### AI & Data
+## AI & Data
 
 - Gemini API
 - Vertex AI
 - Machine Learning
 - Data Processing
 
-### Tools
+## Tools
 
-- VS Code
+- Visual Studio Code
 - Git
 - GitHub
 - GitLab
@@ -183,7 +195,7 @@ A patent-oriented embedded consumer electronics project that transforms the exte
 
 # 🎯 Current Focus
 
-- Building production-ready engineering systems
+- Building production-ready engineering products
 - Developing patent-oriented technologies
 - Publishing engineering research
 - Advancing embedded system architecture
@@ -194,10 +206,10 @@ A patent-oriented embedded consumer electronics project that transforms the exte
 
 # 📈 Long-Term Vision
 
-- Engineer impactful technology products
+- Build impactful engineering products
 - Publish high-quality research
-- Secure intellectual property
-- Build scalable technology ventures
+- Secure patents and intellectual property
+- Create scalable technology ventures
 - Advance embedded and AI-assisted systems
 - Deliver engineering solutions for real-world challenges
 
