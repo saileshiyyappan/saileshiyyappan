@@ -1,17 +1,19 @@
-<div align="center">
+ <div align="center">
 
-# Sailesh Iyyappan Jr.
+# Sailesh Iyyappan .JR
 
 ### Systems Product Engineer • Technical Founder
 
-Building intelligent products by combining **Embedded Systems**, **IoT**, **Artificial Intelligence**, **Full-Stack Engineering**, and **Applied Research**.
+Building intelligent engineering products by combining **Embedded Systems**, **IoT**, **AI-Assisted Software**, **Full-Stack Engineering**, and **Applied Research**.
 
 <p align="center">
   🌐 <a href="https://saileshiyyappan.vercel.app/">Portfolio</a> •
   💼 <a href="https://www.linkedin.com/in/saileshiyyappan/">LinkedIn</a> •
   💻 <a href="https://github.com/saileshiyyappan">GitHub</a> •
   📚 <a href="https://orcid.org/0009-0003-5424-0405">ORCID</a> •
-  📺 <a href="https://www.youtube.com/@YOUR_YOUTUBE_CHANNEL">YouTube</a>
+  📺 <a href="https://www.youtube.com/@SaileshIyyappanJR">YouTube</a> •
+  📷 <a href="https://www.instagram.com/jr.saileshiyyappan/">Instagram</a> •
+  𝕏 <a href="https://x.com/saileshiyyappan">X</a>
 </p>
 
 </div>
@@ -90,151 +92,136 @@ Building intelligent products by combining **Embedded Systems**, **IoT**, **Arti
 <p align="left">
   <img src="https://img.shields.io/badge/Product%20Engineering-1565C0?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/System%20Architecture-283593?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Embedded%20AI-3949AB?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Wearable%20Healthcare-00897B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Embedded%20Systems-3949AB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Wearable%20Technology-00897B?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/IoT%20Systems-00838F?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Firmware%20Development-455A64?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Applied%20Research-6A1B9A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Patent%20Oriented%20Development-C62828?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Product%20Innovation-C62828?style=for-the-badge"/>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am an **Integrated M.Tech Computer Science and Engineering** student at **VIT-AP University** passionate about designing intelligent engineering products that bridge embedded hardware, software systems, artificial intelligence, and applied research.
+I am an **Integrated M.Tech Computer Science and Engineering student at VIT-AP University**, a Systems Product Engineer, and a Technical Founder.
 
-My work focuses on transforming innovative ideas into real-world engineering solutions through multidisciplinary engineering, system architecture, firmware development, embedded systems, full-stack applications, and product-oriented research. I enjoy building scalable technology ecosystems that evolve from concept and prototype to research, intellectual property, and commercialization.
+My work combines embedded hardware, firmware, IoT connectivity, full-stack applications, AI-assisted software, and applied research. I focus on developing engineering systems from concept and architecture through prototyping, testing, documentation, and iterative improvement.
 
----
-
-## 🚀 Flagship Projects
-
-### 🩺 MOWAERS (BAND)
-**Modular Organ-Wise Analysis, Evaluation, Response and Safety System**
-
-MOWAERS (BAND) is a patent-oriented modular wearable healthcare platform designed for continuous health monitoring and intelligent emergency response. The system introduces a modular wearable architecture capable of acquiring physiological signals from multiple body locations while integrating embedded hardware, firmware, Bluetooth communication, mobile software, AI-assisted health evaluation, and personalized health intelligence.
-
-* **Key Highlights:**
-  * Modular wearable architecture
-  * ESP32 & ESP32-C3 embedded platforms
-  * ECG, PPG, Motion & Environmental sensing
-  * Bluetooth Low Energy (BLE)
-  * Mobile companion application
-  * Personalized Health Baseline (PHB)
-  * Sensor Handling Block (SHB)
-  * B-FIT Placement Validation
-  * Compare & Condition Engines
-  * Trend Analysis
-  * CRIB Emergency Response Framework
-  * Patent-oriented product development
+My projects span wearable health technology, engineering collaboration platforms, consumer electronics, acoustic research, and sustainable industrial systems. I am interested in interdisciplinary engineering, practical problem-solving, and developing products that address real-world needs.
 
 ---
 
-### 💡 TechLance
-**AI-Powered Engineering Collaboration Ecosystem**
+## 🚀 Selected Engineering Projects
 
-TechLance is a full-stack engineering collaboration platform that simplifies the engineering project lifecycle—from idea validation to project execution. The platform integrates intelligent collaboration, AI-assisted decision support, project management, hardware sourcing, trust mechanisms, and cloud technologies into a unified engineering ecosystem.
+### 🩺 GOATEST BAND (GT-Band)
+**Wearable Health Technology • Embedded Systems • IoT**
 
-* **Key Highlights:**
-  * AI-assisted engineering workflows
-  * Project intelligence & risk prediction
-  * Intelligent collaboration platform
-  * Full-Stack SaaS Architecture
-  * React & Next.js
-  * Node.js & Firebase
-  * Firestore Database
-  * Gemini API & Vertex AI
-  * Blockchain-based trust concepts
-  * Scalable engineering ecosystem
+GOATEST BAND is a wearable health technology platform under development, focused on physiological monitoring, adaptable sensing, personalized health insights, and emergency-support concepts.
 
----
+**Project Highlights**
+- Wearable hardware and embedded firmware development
+- Physiological sensing and signal acquisition
+- Wireless connectivity and companion application integration
+- Modular product design and prototyping
+- Applied research and patent-oriented development
 
-### 🔊 FCW Ultra-Low Profile Dynamic Speaker Architecture
+*Status: Working engineering prototype; further development and validation ongoing.*
 
-An independent research project exploring an ultra-thin dynamic speaker architecture using **Flat Copper Winding (FCW)** technology. The project redesigns the conventional voice coil into a flat winding architecture, enabling thinner, lightweight, and shape-flexible speakers for future embedded electronics.
+### 💡 Craftlance
+**AI-Assisted Engineering Collaboration Platform**
 
-* **Key Highlights:**
-  * Flat Copper Winding (FCW) technology
-  * Handmade proof-of-concept prototype
-  * Electromagnetic speaker research
-  * Ultra-low profile acoustic architecture
-  * Embedded consumer electronics
-  * Patent-oriented engineering research
-  * Future applications in smartphones, wearables, laptops, IoT, and AR/VR devices
+Craftlance is an engineering collaboration platform designed to connect people seeking engineering project support with students, graduates, and engineers who can contribute practical skills and technical expertise.
 
----
+**Project Highlights**
+- Full-stack platform development
+- Project discovery and collaboration workflows
+- AI-assisted engineering features
+- User, project, and profile management
+- Cloud-based application architecture
+
+*Status: Working prototype; product refinement and user-validation preparation ongoing.*
+
+### 🔊 Paper Thin Speaker – FCW Method
+**Acoustic Engineering • Embedded Electronics • Applied Research**
+
+An experimental speaker research project exploring compact, lightweight audio solutions for space-constrained electronic products. The work includes proof-of-concept development, prototype fabrication, and investigation of potential applications in consumer electronics and wearable technology.
+
+**Project Highlights**
+- Acoustic and electromagnetic engineering
+- Experimental prototype development
+- Embedded consumer electronics applications
+- Technical documentation and research planning
+- Future performance evaluation and design refinement
+
+*Status: Proof-of-concept prototype developed; further research and validation ongoing.*
 
 ### ♻️ Eco-Industrial Park (EIP)
-**Government-Centric Circular Recycling Infrastructure**
+**Sustainable Engineering • Circular Economy • Industrial Systems**
 
-Eco-Industrial Park (EIP) is a large-scale systems engineering research project focused on designing an integrated circular recycling ecosystem that connects multiple recycling industries into one intelligent infrastructure. The project explores industrial symbiosis, automated recycling technologies, resource recovery, and sustainable engineering solutions for future waste management systems.
+Eco-Industrial Park is a research-oriented industrial infrastructure concept exploring how interconnected recycling activities and shared resources could support more efficient material recovery and sustainable industrial operations.
 
-* **Key Highlights:**
-  * Circular economy engineering
-  * Integrated recycling ecosystem
-  * Industrial symbiosis
-  * Intelligent resource recovery
-  * Automatic PCB Dismantling Machine research
-  * Sustainable systems engineering
-  * Government-centric infrastructure planning
-  * Environmental technology research
+**Project Highlights**
+- Circular economy and resource recovery research
+- Industrial systems planning
+- Sustainable infrastructure concepts
+- Exploration of recycling technology integration
+- Research, engineering analysis, and concept development
 
----
+*Status: Under development; research and engineering evaluation ongoing.*
 
-### ✏️ Highlighter-Shaped Portable Audio Device
-**Patent-Oriented Embedded Consumer Electronics**
+### ✏️ Highlighter Bluetooth Speaker
+**Consumer Electronics • Embedded Systems • Product Engineering**
 
-A patent-oriented embedded consumer electronics project that transforms the external form of a conventional highlighter into a compact Bluetooth and standalone MP3 audio device. The project combines embedded hardware integration, compact PCB architecture, rechargeable battery systems, and innovative industrial design within a stationery-inspired enclosure.
+A portable audio device prototype inspired by the familiar form of a stationery highlighter. The project explores compact consumer electronics design, embedded audio functionality, battery-powered operation, and product-oriented hardware integration.
 
-* **Key Highlights:**
-  * Patent-oriented product engineering
-  * Bluetooth audio system
-  * Standalone MP3 playback
-  * Embedded hardware integration
-  * Compact PCB architecture
-  * Battery-powered electronics
-  * Mechanical product engineering
-  * Consumer electronics prototyping
+**Project Highlights**
+- Consumer electronics prototyping
+- Embedded hardware integration
+- Portable audio functionality
+- Battery-powered product design
+- Mechanical packaging and product refinement
+- Patent-oriented documentation and development
+
+*Status: Working prototype; further refinement and evaluation may be undertaken.*
 
 ---
 
 ## 🛠 Engineering Interests
 
-- Embedded Systems
-- Product Engineering
+- Embedded Systems and Firmware
+- Product Engineering and Development
 - Internet of Things (IoT)
-- Artificial Intelligence
+- AI-Assisted Engineering
 - Full-Stack Development
-- Firmware Development
-- System Architecture
-- Healthcare Technology
+- System Architecture and Integration
+- Wearable Health Technology
 - Consumer Electronics
 - Sustainable Engineering
 - Applied Research
+- Prototyping and Experimental Development
 - Product Innovation
 
 ---
 
 ## 🎯 Current Focus
 
-- Building production-ready engineering products
-- Developing patent-oriented technologies
-- Publishing engineering research
-- Advancing embedded system architecture
-- Creating AI-powered engineering platforms
-- Transforming prototypes into scalable products
+- Developing and refining engineering prototypes
+- Building connected hardware and software systems
+- Advancing product architecture and embedded development
+- Conducting applied research and technical documentation
+- Improving engineering workflows through AI-assisted software
+- Preparing projects for further validation and collaboration
 
 ---
 
-## 📈 Long-Term Vision
+## 🌱 Long-Term Vision
 
-- Build impactful engineering products
-- Publish high-quality research
-- Secure patents and intellectual property
-- Create scalable technology ventures
-- Advance embedded and AI-assisted systems
-- Deliver engineering solutions for real-world challenges
+- Develop practical engineering products for real-world challenges
+- Contribute to applied research and interdisciplinary innovation
+- Advance embedded systems, IoT, and intelligent product development
+- Collaborate with engineers, researchers, and product teams
+- Translate promising concepts into tested and usable engineering systems
 
 ---
 
@@ -242,6 +229,6 @@ A patent-oriented embedded consumer electronics project that transforms the exte
 
 ### ⭐ Engineering • Research • Innovation • Product Development
 
-> *"Engineering intelligent products that bridge research, innovation, and real-world impact."*
+*Building practical technology systems through interdisciplinary engineering.*
 
 </div>
